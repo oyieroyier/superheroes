@@ -29,12 +29,12 @@ In order to use this repository you will need the following:
 1. Copy the below live link of the of the API:
 
 ```
-https://pizza-app-s3a8.onrender.com/
+
 ```
 
 2. Open Postman on your browser and on your workspace, paste the live link where the API server is running.
 
-![](/readme_resources/postman.png)
+![](/readme_resources/getstarted.png)
 
 3. Test the deliverables by appending the routes under **ROUTES Deliverables** to the URL above and making the relevant HTTP requests.
 
@@ -64,7 +64,7 @@ You can also set up this repository by following this manual
    http://localhost:3000
    ```
 
-   ![](/readme_resources/postman.png)
+   ![](/readme_resources/getstarted.png)
 
 6. Test the deliverables by appending the routes under **ROUTES Deliverables** to the URL above and making the relevant HTTP requests.
    Attached images illustrate the requests.
