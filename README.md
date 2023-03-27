@@ -235,7 +235,9 @@ properties in the body of the request:
 
 ```json
 {
-	"errors": ["validation errors"]
+  "strength": "Average",
+  "power_id": 1,
+  "hero_id": 3
 }
 ```
 
