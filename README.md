@@ -29,6 +29,7 @@ In order to use this repository you will need the following:
 1. Copy the below live link of the of the API:
 
 ```
+https://superheroes-5y0x.onrender.com/
 
 ```
 
@@ -268,9 +269,10 @@ JSON data, along with the appropriate HTTP status code:
 
 ```json
 {
-  "errors": ["validation errors"]
+	"errors": ["validation errors"]
 }
 ```
+
 ![](/readme_resources/heropowererror.png)
 
 ## Authors
